@@ -4,7 +4,7 @@
 
 // namespace C_BasicPratice
 // {
-//     class Program
+//     class 8
 //     {
 //         static void Main(string[] args)
 //         {

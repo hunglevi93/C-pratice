@@ -12,7 +12,7 @@
 
 // namespace C_BasicPratice
 // {
-//     class bai8
+//     class bai9
 //     {
 //         static void Main(string[] args)
 //         {

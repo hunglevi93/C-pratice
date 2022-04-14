@@ -5,7 +5,7 @@
 
 // namespace C__Pratice
 // {
-//     class bai9
+//     class bai10
 //     {
 //         static void Main(string[] args)
 //         {
