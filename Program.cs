@@ -6,8 +6,8 @@
 //     {
 //         static void Main(string[] args)
 //         {
-//             Console.Write("Nhap so: ");
-//             int myNum = int.Parse(Console.ReadLine());
+//             Console.Write("Nhap chuoi: ");
+//             string myString = Console.ReadLine();
 
 
 //             Console.ReadKey();

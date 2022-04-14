@@ -5,7 +5,7 @@
 
 // namespace C__Pratice
 // {
-//     class 12.DeleteSameChar
+//     class DeleteSameChar
 //     {
 //         static void Main(string[] args)
 //         {
