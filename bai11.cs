@@ -20,6 +20,7 @@
 //                 int count = 0;
 //                 for(int i = 0; i < myString.Length; i++)
 //                 {
+//                     if(myString[0] == myString[i])
 //                     count ++;
 //                 }
 //                 Console.WriteLine(count);
