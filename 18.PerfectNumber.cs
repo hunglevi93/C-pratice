@@ -5,7 +5,7 @@
 
 // namespace C__Pratice
 // {
-//     class Program
+//     class PerfectNumber
 //     {
 //         static void Main(string[] args)
 //         {
